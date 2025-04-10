@@ -1,1 +1,4 @@
 Its for learning github.
+git init 
+git add
+git commit 
